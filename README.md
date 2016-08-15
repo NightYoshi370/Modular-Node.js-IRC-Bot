@@ -1,6 +1,6 @@
 # Modular Node.js IRC Bot
 
-[![Build Status](https://travis-ci.org/LifeMushroom/Modular-Node.js-IRC-Bot.svg?branch=master)](https://travis-ci.org/LifeMushroom/Modular-Node.js-IRC-Bot)]
+[![Build Status](https://travis-ci.org/Apexton/Modular-Node.js-IRC-Bot.svg?branch=master)](https://travis-ci.org/LifeMushroom/Modular-Node.js-IRC-Bot)
 
 An extremely modular IRC bot written in Node.js.
 
