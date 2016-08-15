@@ -1,12 +1,12 @@
 # Modular Node.js IRC Bot
 
-[![Build Status](https://travis-ci.org/LifeMushroom/Modular-Node.js-IRC-Bot.svg?branch=master)](https://travis-ci.org/LifeMushroom/Modular-Node.js-IRC-Bot)
+[![Build Status](https://travis-ci.org/LifeMushroom/Modular-Node.js-IRC-Bot.svg?branch=master)](https://travis-ci.org/LifeMushroom/Modular-Node.js-IRC-Bot)]
 
 An extremely modular IRC bot written in Node.js.
 
 ## How to use/install
 
-If you cannot host this or don't want to use your own system, please view the [Cloud9 Install Tutorial (For Beginner Users)](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/blob/master/Docs/Cloud9.md) or the [OpenShift Install Tutorial (For Experts)](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/blob/master/Docs/OpenShift.md) otherwise, continue on...
+If you cannot host this or don't want to use your own system, please view the [Cloud9 Install Tutorial (For Beginner Users)](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/blob/master/Docs/Cloud9.md) or the [OpenShift Install Tutorial (For Advanced Users)](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/blob/master/Docs/OpenShift.md) otherwise, continue on... Please note that when using the [Cloud9 Method](https://github.com/LifeMushroom/Modular-Node.js-IRC-Bot/blob/master/Docs/Cloud9.md) that the browser will need to be open while running the bot unless you have a [paid Cloud9 account](https://c9.io/pricing).
 
 1. Make sure you clone this repo with git and not just upload or download a zip of it. Make sure that ```git pull``` is executable, otherwise the update check will not work.  
 2. Open ```settings.js``` and configure the file. There are comments in the file that should tell you what to do.  
