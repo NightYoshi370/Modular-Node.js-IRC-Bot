@@ -26,3 +26,5 @@ Now that you're finally done setting it up, run the bot using ```node app.js sta
 
 ![Connected](https://raw.githubusercontent.com/LifeMushroom/Modular-Node.js-IRC-Bot/master/Docs/OpenShift/9.jpg)
 The bot should now join!
+
+Please note: You have to connect to your bot via SSH every once and a while to keep your Openshift envirnment running or they'll automatically delete your box. Don't worry, they'll email you before they take action though.
