@@ -9,7 +9,7 @@
     "google": "^1.2.0",
     "ddg": "^0.0.3",
     "node-wolfram": "^0.0.1",
-    "temp-write": "^1.1.1",
+    "temp-write": "^3.2.0",
     "MD5": "^1.2.2",
     "wtf_wikipedia": "^0.8.6",
     "leet": "^1.2.7",
