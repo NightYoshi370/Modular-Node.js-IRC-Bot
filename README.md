@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Apexton/Modular-Node.js-IRC-Bot.svg?branch=master)](https://travis-ci.org/LifeMushroom/Modular-Node.js-IRC-Bot)
 
-An extremely modular IRC bot written in Node.js.
+An extremely modular IRC bot written in Node.js. This repo is just here, to make sure that Travis works correctly...
 
 ## How to use/install
 
