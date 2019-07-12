@@ -1,6 +1,6 @@
 // Bot configuration file - Make sure this is in the main bot directory and named "config.js"
 
-exports.settings = {
+module.exports = {
 	// Name of bot
 	globalNick: "ModularBot",
 	// Username of bot
